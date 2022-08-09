@@ -1,7 +1,7 @@
 Project Upward Mobility
 ==============================
 
-Analyze Upward Mobility metrics, resulting in insightful comparisons and informative visualizations
+Communities can foster environments for citizens to thrive and boost their upward mobility.  The conditions most local to a family are also most critical to achieve mobility from poverty.  Mobility from poverty includes economic success, power and autonomy, and being valued in a community.  To measure how upwardly mobile a community is, there are three key drivers tied to the definition: 
 
 Project Organization
 ------------
