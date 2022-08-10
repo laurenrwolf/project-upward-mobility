@@ -1,0 +1,3 @@
+[submodule "streamlitapp"]
+	path = streamlitapp
+	url = git@github.com:davidhcoe/mads697.git
