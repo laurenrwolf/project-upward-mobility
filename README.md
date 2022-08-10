@@ -2,11 +2,15 @@ Project Upward Mobility
 ==============================
 
 Communities can foster environments for citizens to thrive and boost their upward mobility.  The conditions most local to a family are also most critical to achieve mobility from poverty.  Mobility from poverty includes economic success, power and autonomy, and being valued in a community.  To measure how upwardly mobile a community is, there are three key drivers tied to the definition: 
+
 * Strong and health families
 * Supportive communities
 * Opportunities to learn and earn
+
 Each driver has evidence-based metrics associated with it that can highlight the strengths and weaknesses of a community, and track progress on goals to improve the lives of its residents. These metrics can then inform community leaders where priorities should be to ensure that citizens have the opportunity to reach their full potential and be well-rounded individuals. 
-This project was inspired and has intended to follow the research report Boosting Upward Mobility: Metrics to Inform Local Action.
+
+This project was inspired and has intended to follow the research report [Boosting Upward Mobility: Metrics to Inform Local Action](https://www.urban.org/research/publication/boosting-upward-mobility-metrics-inform-local-action)
+
 Project Organization
 ------------
 
