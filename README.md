@@ -11,6 +11,18 @@ Each driver has evidence-based metrics associated with it that can highlight the
 
 This project was inspired and has intended to follow the research report [Boosting Upward Mobility: Metrics to Inform Local Action](https://www.urban.org/research/publication/boosting-upward-mobility-metrics-inform-local-action)
 
+Getting Started
+------------
+### Census API Key
+An API key is required to pull data via the Census API in the following notebooks: 
+
+* NOTEBOOK
+* NOTEBOOK
+* NOTEBOOK
+
+Sign up for a key at this [link](https://api.census.gov/data/key_signup.html)
+
+
 Project Organization
 ------------
 
