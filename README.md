@@ -22,11 +22,19 @@ An API key is required to pull data via the Census API in the following notebook
 
 Sign up for a key at this [link](https://api.census.gov/data/key_signup.html)
 
+### Requirements
+
+There are three parts to this project:
+* Data collection, manipulation and analysis
+* django website front end - contained in sub repo 'djangosite @ c6f2e1f '
+* Streamlit data visualization app - contained in sub repo 'streamlitapp @ 0931e5a'
+
+Each part has it's own requirements.txt
 
 Project Organization
 ------------
 
-    ├── README.md          <- The top-level README for developers using this project.
+    ├── README.md          <- The top-level README for using this project.
     ├── data
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
@@ -65,6 +73,10 @@ Project Organization
         └── visualization  <- Scripts to create exploratory and results oriented visualizations
             └── visualize.py
 
+
+Project Structure
+--------
+![Project Structure ](https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/capstone%20pipeline.png?raw=true)
 
 --------
 
