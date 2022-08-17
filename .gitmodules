@@ -1,0 +1,6 @@
+[submodule "streamlitapp"]
+	path = streamlitapp
+	url = git@github.com:davidhcoe/mads697.git
+[submodule "djangosite"]
+	path = djangosite
+	url = git@github.com:rachellcalhoun/us-upward-mobility.git
