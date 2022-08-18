@@ -26,9 +26,9 @@ Ways to Explore the Data
 		<br>Detailed metrics and sources for each county</td>
  </tr>
  <tr>
-    <td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/NationalView.gif" width="50%" height="50%"/></td>
-	<td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyFinder.gif" width="50%" height="50%"/></td>
-    <td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyDetails.gif" width="50%" height="50%"/></td>
+    <td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/NationalView.gif" width="75%" height="75%"/></td>
+	<td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyFinder.gif" width="75%" height="75%"/></td>
+    <td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyDetails.gif" width="75%" height="75%"/></td>
  </tr>
 </table>
 
