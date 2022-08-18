@@ -16,11 +16,9 @@ This report detailed what metrics to gather and what government agency or other 
 
 Getting Started
 ------------
-### Setting up your environment:
-1. Clone the repo
-
-In command prompt:
-
+### Setting up your environment in a command prompt:
+1. Clone the repo:
+	- 'git clone https://github.com/laurenrwolf/project-upward-mobility.git'
 2. Set up a virtual environment: 
     - `python -m venv myvenv`
 3. Activate virtual environment:
