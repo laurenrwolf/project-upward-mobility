@@ -16,7 +16,8 @@ This report detailed what metrics to gather and what government agency or other 
 Ways to Explore the Data
 ------------
 US National View of every county
-<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/NationalView.gif" width="50%" height="50%"/>
+
+<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/NationalView.gif" width="25%" height="25%"/>
 
 Getting Started
 ------------
