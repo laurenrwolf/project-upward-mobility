@@ -19,9 +19,11 @@ Ways to Explore the Data
 <table border="0">
  <tr>
     <td><b style="font-size:30px">US National View</b> 
-	<br>See a national overview of a single metric</td>
-    <td><b style="font-size:30px">County Finder helps users find the best place for them to live</b></td>
-	<td><b style="font-size:30px">County Details shows detailed metrics for each county</b></td>
+		<br>See a national overview of a single metric</td>
+    <td><b style="font-size:30px">County Finder</b>
+		<br>Shows users counties that excel in the metrics they care about</td>
+	<td><b style="font-size:30px">County Details</b>
+		<br>Detailed metrics and sources for each county</td>
  </tr>
  <tr>
     <td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/NationalView.gif" width="50%" height="50%"/></td>
