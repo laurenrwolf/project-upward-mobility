@@ -11,7 +11,9 @@ To measure how upwardly mobile a community is, there are three key drivers tied 
 Each driver has evidence-based metrics associated with it that can highlight the strengths and weaknesses of a community, and track progress on goals to improve the lives of its residents. These metrics can then inform community leaders where priorities should be to ensure that citizens have the opportunity to reach their full potential and be well-rounded individuals. 
 
 This project was inspired and has intended to follow the research report [Boosting Upward Mobility: Metrics to Inform Local Action](https://www.urban.org/research/publication/boosting-upward-mobility-metrics-inform-local-action).
-This report detailed what metrics to gather and what government agency or other source to obtain them from, however, no technical details were provided. The original intention was that these would be collected by one city or region for their own upward mobility analysis, and therefore would not be a large lift to manually go to each source and gather the data. This project contains a way to programmatically collect all counties in the US from multiple disparate sources and bring them together in one dataframe. This is a reproducible method to retrieve many of these metrics, so that less-technical organizations will find them more accessible, and they can be updated as new data becomes available each year.  
+This report detailed what metrics to gather and what government agency or other source to obtain them from, however, no technical details were provided. The original intention was that these would be collected by one city or region for their own upward mobility analysis, and therefore would not be a large lift to manually go to each source and gather the data. 
+
+This project contains a way to programmatically collect all counties in the US from multiple disparate sources and bring them together in one dataframe. This is a reproducible method to retrieve many of these metrics, so that less-technical organizations will find them more accessible, and they can be updated as new data becomes available each year.  
 
 Ways to Explore the Data
 ------------
@@ -82,8 +84,7 @@ Project Organization
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-                              generated with `pip freeze > requirements.txt`
+    ├── requirements.txt   <- The requirements file for reproducing the analysis environment. The django site and Streamlit app have their own requirements.txt files within those subrepos
 
 	 
 Project Structure
