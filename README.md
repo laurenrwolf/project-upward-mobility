@@ -18,10 +18,8 @@ Getting Started
 ------------
 ### Setting up your environment:
 1. Clone the repo
-2. Set up a virtual environment : 
-    - `python -m venv myvenv`
-3. Actiavte virtual environment:
-    - `source myvenv/bin/activate`
+2. Set up a virtual environment 
+3. Activate virtual environment
 4. Install requirements to run notebooks: 
     - `pip install -r requirements.txt`
 
