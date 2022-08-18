@@ -15,26 +15,6 @@ This report detailed what metrics to gather and what government agency or other 
 
 This project contains a way to programmatically collect all counties in the US from multiple disparate sources and bring them together in one dataframe. This is a reproducible method to retrieve many of these metrics, so that less-technical organizations will find them more accessible, and they can be updated as new data becomes available each year.  
 
-Ways to Explore the Data
-------------
-
-### US National View
-
-See a national overview of a single metric
-
-<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/NationalView.gif" width="75%" height="75%"/>
-
-### County Finder
-
-Shows users counties that excel in the metrics they care about
-
-<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyFinder.gif" width="75%" height="75%"/>
-
-### County Details
-
-Detailed metrics and sources for each county
-<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyDetails.gif" width="75%" height="75%"/>
-
 Getting Started
 ------------
 ### Setting up your environment in a command prompt:
@@ -90,3 +70,26 @@ Project Organization
 Project Structure
 --------
 ![Project Structure](https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/capstone%20pipeline.png?raw=true)
+
+Ways to Explore the Data 
+------------
+
+There are three main functions on the project ![website](https://upwardmobility.pythonanywhere.com/)
+
+### US National View
+
+Explore a national overview of a single metric
+
+<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/NationalView.gif" width="75%" height="75%"/>
+
+### County Finder
+
+Find top ranking counties in the metrics that matter to you
+
+<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyFinder.gif" width="75%" height="75%"/>
+
+### County Details
+
+View detailed metrics for a specific county
+
+<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyDetails.gif" width="75%" height="75%"/>
