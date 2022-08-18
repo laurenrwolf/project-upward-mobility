@@ -16,21 +16,22 @@ This report detailed what metrics to gather and what government agency or other 
 Ways to Explore the Data
 ------------
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">US National View</b> 
-		<br>See a national overview of a single metric</td>
-    <td><b style="font-size:30px">County Finder</b>
-		<br>Shows users counties that excel in the metrics they care about</td>
-	<td><b style="font-size:30px">County Details</b>
-		<br>Detailed metrics and sources for each county</td>
- </tr>
- <tr>
-    <td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/NationalView.gif" width="75%" height="75%"/></td>
-	<td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyFinder.gif" width="75%" height="75%"/></td>
-    <td><img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyDetails.gif" width="75%" height="75%"/></td>
- </tr>
-</table>
+### US National View
+
+See a national overview of a single metric
+
+<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/NationalView.gif" width="75%" height="75%"/>
+
+### County Finder
+
+Shows users counties that excel in the metrics they care about
+
+<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyFinder.gif" width="75%" height="75%"/>
+
+### County Details
+
+Detailed metrics and sources for each county
+<img src="https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/CountyDetails.gif" width="75%" height="75%"/>
 
 Getting Started
 ------------
