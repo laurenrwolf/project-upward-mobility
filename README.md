@@ -32,7 +32,7 @@ An API key is required to pull data via the Census API in the following notebook
 
 * 1_ACS Data Pull updated.ipynb
 
-Sign up for a key at this [link](https://api.census.gov/data/key_signup.html)
+Sign up for a key at this [link](https://api.census.gov/data/key_signup.html) and be sure to insert it in to the specified location in the notebook.
 
 ### Requirements
 
@@ -61,7 +61,7 @@ Project Organization
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
+                              generated with `pip freeze > requirements.txt`
 
 	 
 Project Structure
