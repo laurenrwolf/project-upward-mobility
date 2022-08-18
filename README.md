@@ -20,6 +20,7 @@ Getting Started
 1. Clone the repo
 
 In command prompt:
+
 2. Set up a virtual environment : 
      -`python -m venv myvenv`
 3. Activate virtual environment:
