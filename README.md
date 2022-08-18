@@ -69,6 +69,8 @@ Project Organization
 	 
 Project Structure
 --------
+Notebooks must be ran in a specific order, first pulling all of the metrics from their various sources using specific notebooks, before joining them together in one final dataframe.
+
 ![Project Structure](https://github.com/laurenrwolf/project-upward-mobility/blob/main/references/capstone%20pipeline.png?raw=true)
 
 Ways to Explore the Data 
