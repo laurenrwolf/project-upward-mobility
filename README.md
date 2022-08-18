@@ -41,7 +41,7 @@ There are three parts to this project:
 * django website front end - contained in sub repo 'djangosite @ c6f2e1f '
 * Streamlit data visualization app - contained in sub repo 'streamlitapp @ 0931e5a'
 
-Each part has it's own requirements.txt
+Each part has its own requirements.txt
 
 Project Organization
 ------------
