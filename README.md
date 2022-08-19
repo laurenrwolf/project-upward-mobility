@@ -14,7 +14,8 @@ This project was inspired and has intended to follow the research report [Boosti
 This report detailed what metrics to gather and what government agency or other source to obtain them from, however, no technical details were provided. The original intention was that these would be collected by one city or region for their own upward mobility analysis, and therefore would not be a large lift to manually go to each source and gather the data. 
 
 ### Summary 
-This project contains a way to programmatically collect all counties in the US from multiple disparate sources and bring them together in one dataframe. This is a reproducible method to retrieve many of these metrics, so that less-technical organizations will find them more accessible, and they can be updated as new data becomes available each year.  
+
+This project contains a way to programmatically collect data for all counties in the US from multiple disparate sources and bring them together in one dataframe. This data is then used to calculate 16 Upward Mobility Metrics as laid out by the Urban Institute, and present them on a web front end for users. This is a reproducible method to retrieve many of these metrics, so that less-technical organizations will find them more accessible, and they can be updated as new data becomes available each year.  
 
 Getting Started
 ------------
