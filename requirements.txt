@@ -1,2 +1,4 @@
 notebook
 pandas
+census
+us
