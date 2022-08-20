@@ -2,3 +2,6 @@ notebook
 pandas
 census
 us
+altair
+openpyxl
+plotly
