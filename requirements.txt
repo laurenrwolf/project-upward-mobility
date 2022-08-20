@@ -1,7 +1,14 @@
 notebook
 pandas
+openpyxl
+# acs
 census
 us
+# visualizations
 altair
-openpyxl
 plotly
+matplotlib
+# clustering
+tqdm
+sklearn
+seaborn
