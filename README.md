@@ -36,7 +36,7 @@ Getting Started
 ### Census API Key
 An API key is required to pull data via the Census API in the following notebook:
 
-* 1_ACS Data Pull updated.ipynb
+* acs.ipynb
 
 Sign up for a key at this [link](https://api.census.gov/data/key_signup.html) and be sure to insert it in to the specified location in the notebook.
 
@@ -44,8 +44,8 @@ Sign up for a key at this [link](https://api.census.gov/data/key_signup.html) an
 
 There are three parts to this project:
 * Data collection, manipulation and analysis
-* django website front end - contained in sub repo 'djangosite @ c6f2e1f '
-* Streamlit data visualization app - contained in sub repo 'streamlitapp @ 0931e5a'
+* django website front end - contained in sub repo 'djangosite @ d6e6e8f' 
+* Streamlit data visualization app - contained in sub repo 'streamlitapp @ a48cd17'
 
 Each part has its own requirements.txt
 
