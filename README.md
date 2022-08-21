@@ -22,7 +22,7 @@ Getting Started
 ### Setting up your environment in a command prompt:
 
 1. Clone the repo:
-	- 'git clone https://github.com/laurenrwolf/project-upward-mobility.git'
+    - `git clone https://github.com/laurenrwolf/project-upward-mobility.git`
 2. Set up a virtual environment: 
     - `python -m venv myvenv`
 3. Activate virtual environment:
@@ -48,6 +48,22 @@ There are three parts to this project:
 * Streamlit data visualization app - contained in sub repo 'streamlitapp @ a48cd17'
 
 Each part has its own requirements.txt
+
+### Notebook Execute Order
+
+1. acs.ipynb
+2. The following notebooks can be ran in any order, as long as they are all completed by before running step #3
+	* acs_expose_poverty.ipynb
+	* air_quality.ipynb
+	* debt.ipynb
+	* education.ipynb
+	* health_shortages.ipynb
+	* juvenile_arrests.ipynb
+	* low_birth_weight.ipynb
+	* transportation.ipynb
+	* violent_crime.ipynb
+	* voter_turnout.ipynb
+3. counties_merged.ipynb
 
 Project Organization
 ------------
