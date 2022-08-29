@@ -94,7 +94,7 @@ Notebooks must be ran in a specific order, first pulling all of the metrics from
 Ways to Explore the Data 
 ------------
 
-There are three main functions on the project ![website](https://upwardmobility.pythonanywhere.com/)
+There are three main functions on the project [website](https://upwardmobility.pythonanywhere.com/)
 
 ### US National View
 
